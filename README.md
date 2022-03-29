@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sithija Tharuka
 - 🌱 I’m currently learning Flutter
-- 📫 How to reach me [Email](sithijatharuka03@gmail.com)
+- 📫 How to reach me [Email] sithijatharuka03@gmail.com
 
 
 # **Connect With Me**
