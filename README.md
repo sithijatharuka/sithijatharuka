@@ -4,7 +4,7 @@
 
 
 # **Connect With Me**
-- 💻 [Visit my portfolio](https://sithijatharuka.pages.dev/
+- 💻 [Visit my portfolio](https://sithijatharuka.pages.dev/)
 
 <!---
 sithijatharuka/sithijatharuka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
