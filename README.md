@@ -3,7 +3,7 @@
 - 📫 How to reach me [Email](sithijatharuka03@gmail.com)
 
 
-# H1**Connect With Me**
+# H1 **Connect With Me**
 - 💻 [Visit my portfolio](https://sithijatharuka.pages.dev/
 
 <!---
