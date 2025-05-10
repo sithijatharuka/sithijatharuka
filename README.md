@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sithija Tharuka
-- Trainee Full Stack Developer | Flutter Developer 🧑‍💻 | Undergraduate Student at UOJ
+- Aspiring Software Engineer | MERN Stack & Flutter Developer | AI & Cloud Computing | UOJ Undergraduate Seeking Internships
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me [Email] sithijatharuka03@gmail.com
 
